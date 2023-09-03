@@ -1,0 +1,10 @@
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\bin\Debug\CapaDatosEstadoTarea.dll
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\bin\Debug\CapaDatosEstadoTarea.pdb
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\bin\Debug\CapaDatosEstadoTarea.xml
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.vbproj.AssemblyReference.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.Resources.resources
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.vbproj.GenerateResource.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.vbproj.CoreCompileInputs.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.dll
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.xml
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaDatosEstadoTarea\obj\Debug\CapaDatosEstadoTarea.pdb

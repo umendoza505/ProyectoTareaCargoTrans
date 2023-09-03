@@ -1,0 +1,14 @@
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaLogicaNegocioEstadoTarea.dll
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaLogicaNegocioEstadoTarea.pdb
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaLogicaNegocioEstadoTarea.xml
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaDatosEstadoTarea.dll
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaDatosEstadoTarea.pdb
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\bin\Debug\CapaDatosEstadoTarea.xml
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.vbproj.AssemblyReference.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.Resources.resources
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.vbproj.GenerateResource.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.vbproj.CoreCompileInputs.cache
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.vbproj.CopyComplete
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.dll
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.xml
+C:\Users\rtorrez\source\repos\ProyectoEstadoTarea\CapaLogicaNegocioEstadoTarea\obj\Debug\CapaLogicaNegocioEstadoTarea.pdb
